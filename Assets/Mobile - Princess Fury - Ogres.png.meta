@@ -1,0 +1,1023 @@
+fileFormatVersion: 2
+guid: 798a5fa504db36049854ae2b2e5e623d
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Mobile - Princess Fury - Ogres_0
+    21300002: Mobile - Princess Fury - Ogres_1
+    21300004: Mobile - Princess Fury - Ogres_2
+    21300006: Mobile - Princess Fury - Ogres_3
+    21300008: Mobile - Princess Fury - Ogres_4
+    21300010: Mobile - Princess Fury - Ogres_5
+    21300012: Mobile - Princess Fury - Ogres_6
+    21300014: Mobile - Princess Fury - Ogres_7
+    21300016: Mobile - Princess Fury - Ogres_8
+    21300018: Mobile - Princess Fury - Ogres_9
+    21300020: Mobile - Princess Fury - Ogres_10
+    21300022: Mobile - Princess Fury - Ogres_11
+    21300024: Mobile - Princess Fury - Ogres_12
+    21300026: Mobile - Princess Fury - Ogres_13
+    21300028: Mobile - Princess Fury - Ogres_14
+    21300030: Mobile - Princess Fury - Ogres_15
+    21300032: Mobile - Princess Fury - Ogres_16
+    21300034: Mobile - Princess Fury - Ogres_17
+    21300036: Mobile - Princess Fury - Ogres_18
+    21300038: Mobile - Princess Fury - Ogres_19
+    21300040: Mobile - Princess Fury - Ogres_20
+    21300042: Mobile - Princess Fury - Ogres_21
+    21300044: Mobile - Princess Fury - Ogres_22
+    21300046: Mobile - Princess Fury - Ogres_23
+    21300048: Mobile - Princess Fury - Ogres_24
+    21300050: Mobile - Princess Fury - Ogres_25
+    21300052: Mobile - Princess Fury - Ogres_26
+    21300054: Mobile - Princess Fury - Ogres_27
+    21300056: Mobile - Princess Fury - Ogres_28
+    21300058: Mobile - Princess Fury - Ogres_29
+    21300060: Mobile - Princess Fury - Ogres_30
+    21300062: Mobile - Princess Fury - Ogres_31
+    21300064: Mobile - Princess Fury - Ogres_32
+    21300066: Mobile - Princess Fury - Ogres_33
+    21300068: Mobile - Princess Fury - Ogres_34
+    21300070: Mobile - Princess Fury - Ogres_35
+    21300072: Mobile - Princess Fury - Ogres_36
+    21300074: Mobile - Princess Fury - Ogres_37
+    21300076: Mobile - Princess Fury - Ogres_38
+    21300078: Mobile - Princess Fury - Ogres_39
+    21300080: Mobile - Princess Fury - Ogres_40
+    21300082: Mobile - Princess Fury - Ogres_41
+    21300084: Mobile - Princess Fury - Ogres_42
+    21300086: Mobile - Princess Fury - Ogres_43
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Princess Fury - Ogres_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 839
+        width: 104
+        height: 119
+      alignment: 9
+      pivot: {x: 0.4561898, y: 0.11712134}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552e629ac8c64db40ac583bc4e6a1aec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Princess Fury - Ogres_1
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 839
+        width: 104
+        height: 118
+      alignment: 9
+      pivot: {x: 0.4780951, y: 0.104223736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e0ec6860c88bf40aa87912542236de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Princess Fury - Ogres_2
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 839
+        width: 104
+        height: 118
+      alignment: 9
+      pivot: {x: 0.46714285, y: 0.104223736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1fcc15b03a7364bbf9be67d437d0ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Princess Fury - Ogres_3
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 839
+        width: 104
+        height: 118
+      alignment: 9
+      pivot: {x: 0.44523767, y: 0.1138766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231d2c0d39ef0794491f9950be2eeea5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Princess Fury - Ogres_4
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 839
+        width: 104
+        height: 118
+      alignment: 9
+      pivot: {x: 0.45619026, y: 0.09457035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec31235d80a64984fbf9b3b077e35335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Princess Fury - Ogres_5
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 838
+        width: 114
+        height: 119
+      alignment: 9
+      pivot: {x: 0.49000844, y: 0.08840558}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8457d30c9e2a94048a86bf633f30fe42
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Princess Fury - Ogres_6
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 838
+        width: 120
+        height: 119
+      alignment: 9
+      pivot: {x: 0.5189845, y: 0.08840558}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ca215abf7b4584c80376860a259556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Princess Fury - Ogres_7
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 838
+        width: 114
+        height: 119
+      alignment: 9
+      pivot: {x: 0.49000898, y: 0.08840558}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db824011f782524a990c3f7908c7f2c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Princess Fury - Ogres_8
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 674
+        width: 98
+        height: 124
+      alignment: 9
+      pivot: {x: 0.41863844, y: 0.086630054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5507be0c7af1044299c8fb56fdc557b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Princess Fury - Ogres_9
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 674
+        width: 91
+        height: 125
+      alignment: 9
+      pivot: {x: 0.44993156, y: 0.099049315}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b002ee97a3119cc46bdd9cad31e0c48a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Princess Fury - Ogres_10
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 674
+        width: 98
+        height: 124
+      alignment: 9
+      pivot: {x: 0.45350802, y: 0.07744377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44680b43cc5f744eb4066d1ea84381c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Princess Fury - Ogres_11
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 674
+        width: 107
+        height: 141
+      alignment: 9
+      pivot: {x: 0.37225455, y: 0.07184141}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd9b5e92b6d6f8744be1b3d3f5ba84e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Princess Fury - Ogres_12
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 674
+        width: 99
+        height: 138
+      alignment: 9
+      pivot: {x: 0.43096617, y: 0.05427927}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96138e6cce718e84c95c34e5071f0fee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Princess Fury - Ogres_13
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 674
+        width: 181
+        height: 137
+      alignment: 9
+      pivot: {x: 0.3237915, y: 0.07596872}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b6d9f383df79e4b8dfa7272d7acf04
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Princess Fury - Ogres_14
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 674
+        width: 181
+        height: 107
+      alignment: 9
+      pivot: {x: 0.3237915, y: 0.09547267}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1d71a7ebdcb6145a9d942ee9bab4b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Princess Fury - Ogres_15
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 506
+        width: 107
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c964383b2518684a9ffc59d85a337ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Princess Fury - Ogres_16
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 506
+        width: 99
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b878fd488c25d540bd2e1603aa269d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Princess Fury - Ogres_17
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 506
+        width: 90
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb71a2f6867bd04c8c27692308905f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Princess Fury - Ogres_18
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 506
+        width: 117
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e998df6f10548d49b0ac3ae9dc6751f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Princess Fury - Ogres_19
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 506
+        width: 208
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e638496ec6bb74bb28e5d8899d93fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Princess Fury - Ogres_20
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 506
+        width: 191
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd72d9f1a433394994ef2ed73284bcf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Princess Fury - Ogres_21
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 506
+        width: 99
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31bb5a99835f7842814fbe66848dce6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Princess Fury - Ogres_22
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 353
+        width: 104
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e893229aa479724194804c185f0cf34
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Princess Fury - Ogres_23
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 353
+        width: 104
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97398f850a2427e4cb6ec1b3d5f5c363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Princess Fury - Ogres_24
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 353
+        width: 104
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07f7cf514b17634e9317cb07e4c3003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Princess Fury - Ogres_25
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 353
+        width: 104
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf30426cd18c0b145a506c239b5aa662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Princess Fury - Ogres_26
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 353
+        width: 104
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5b2e84ea394f544bb4546ee8de2179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Princess Fury - Ogres_27
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 352
+        width: 114
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92eacaa11cd19642b920fa9d1a2ddcb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Princess Fury - Ogres_28
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 352
+        width: 120
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9370cb87213ccb4fac6c56c42ef8be9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Princess Fury - Ogres_29
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 352
+        width: 114
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e732a148ed137e44be9621f8e699f13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Princess Fury - Ogres_30
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 188
+        width: 98
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1d2cff03aa31147b19d15d7caef92e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Princess Fury - Ogres_31
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 188
+        width: 91
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a298d757c60acce41bd2297025869d2d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Princess Fury - Ogres_32
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 188
+        width: 98
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999630c11819de14ba7fcbfd9dee246c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Princess Fury - Ogres_33
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 188
+        width: 107
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec91619038340140886f56dd38991c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Princess Fury - Ogres_34
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 188
+        width: 99
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9726815477ddf04c898425b89cae31c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Princess Fury - Ogres_35
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 188
+        width: 181
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5929ca7203ea08d42b409e9b57b09f7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Princess Fury - Ogres_36
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 188
+        width: 181
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25311118e1058194991cb0e7aec75c6d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Princess Fury - Ogres_37
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 20
+        width: 107
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebfe640aa215975439d3ba5d09bbdc30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Princess Fury - Ogres_38
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 0
+        width: 99
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e62072c409a6f4788b67672ee6ada8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Princess Fury - Ogres_39
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 20
+        width: 90
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777576ce5cbaec14ea920e5177a29888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Princess Fury - Ogres_40
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 20
+        width: 117
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebada10d28b5faf448e547a1052d7d2e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Princess Fury - Ogres_41
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 20
+        width: 208
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fddbfcb536726314189bf99951a56ff2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Princess Fury - Ogres_42
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 20
+        width: 191
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25574edf6d8a9ef40bf1d942d20f5bea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Princess Fury - Ogres_43
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 20
+        width: 99
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a8aec19fc17f94fb62c6c86f3cb1d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: de76ac1fa74b8ff44a919183bdca9ded
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
